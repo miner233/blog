@@ -1,6 +1,5 @@
-## Gitblog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
-[RSS Feed](https://raw.githubusercontent.com/miner233/blog/master/feed.xml)
+## Miner233 Blog
+Miner233 的博客
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
