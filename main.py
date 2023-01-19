@@ -9,7 +9,7 @@ from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
 MD_HEAD = """## Miner233 Blog
-Miner233 的博客 - GitHub issues
+Miner233 的博客 - GitHub issues<br>
 博客现已迁移。[点击此处](https://miner233.netlify.app/) 进入新的博客以查看全部内容。
 """
 
