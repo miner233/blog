@@ -1,5 +1,7 @@
 # [《Microsoft Edge：microsoft.com 看起来很可疑》](https://github.com/miner233/blog/issues/6)
 
+https://miner233.netlify.app/
+
 ![image](https://s1.vika.cn/space/2023/01/10/d9c6f68e34b04680b2968c2e029cdb42)
 
 ***
