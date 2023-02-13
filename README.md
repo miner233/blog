@@ -5,7 +5,7 @@ Miner233 的博客 - GitHub issues<br>
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
-- [关于网易举报第三方启动器这件事，我有话要讲。](https://github.com/miner233/blog/issues/7)--2023-02-13
+- [关于网易举报第三方启动器这件事，我有话要讲。 - #9](https://github.com/miner233/blog/issues/7)--2023-02-13
 - [《Microsoft Edge：microsoft.com 看起来很可疑》](https://github.com/miner233/blog/issues/6)--2022-12-19
 - [《PCL2 Downloader》](https://github.com/miner233/blog/issues/4)--2022-12-16
 - [Hello World](https://github.com/miner233/blog/issues/1)--2022-12-15
